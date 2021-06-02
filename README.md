@@ -2,8 +2,7 @@
 
 ![retool-dataloader-small](https://user-images.githubusercontent.com/83878676/120472241-8bf05f80-c39d-11eb-8ebb-d8c1e5e7a905.gif)
 
-1. Download retool-salesforce-dataloader.json
-
+1. Download [retool-salesforce-dataloader.json](https://github.com/Biz-Systems/retool-salesforce-dataloader/blob/main/retool-salesforce-dataloader.json)
 
 2. Import into Retool
 
@@ -17,5 +16,5 @@
 <img width="274" alt="Screenshot 2021-06-02 at 12 31 09" src="https://user-images.githubusercontent.com/83878676/120473003-79c2f100-c39e-11eb-85e2-bf0f5f42c77c.png">
 
 
-For more details on how this app works head over to 
+For more details on how this app works head over to https://www.bizsystems.co/blog/retool-salesforce-dataloader
 
